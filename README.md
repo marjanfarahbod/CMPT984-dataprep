@@ -17,7 +17,7 @@ Then, using Bedtools ([https://bedtools.readthedocs.io/en/latest/](https://bedto
 
 Genome positions (alongside with track data) were binned at 100bp (code and description in processdata_cmpt984.py and gather_cmpt984.py).
 
-![asinh_6tracks_GM12878.png](CMPT%20984%20Data%20Prep%2005b21661b75b4b0cb2d070d800e91f8e/asinh_6tracks_GM12878.png)
+![asinh_6tracks_GM12878.png](https://github.com/marjanfarahbod/CMPT984-dataprep/blob/main/asinh_6tracks_GM12878.png)
 
 ## item (2):
 
