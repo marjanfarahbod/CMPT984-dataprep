@@ -22,7 +22,7 @@ File name: ENCFF345SHY.tsv. **
 
 Snapshot of header: 
 
-![Screen Shot 2021-10-11 at 12.56.58 PM.png](https://github.com/marjanfarahbod/CMPT984-dataprep/Screen_Shot_2021-10-11_at_12.56.58_PM.png)
+![Screen Shot 2021-10-11 at 12.56.58 PM.png](https://github.com/marjanfarahbod/CMPT984-dataprep/blob/main/Screen_Shot_2021-10-11_at_12.56.58_PM.pngScreen_Shot_2021-10-11_at_12.56.58_PM.png)
 
 I am not sure what are the gene_ids and transcript_ids in the first few thousands first lines, but after that they are ensembl IDs. At first I thought they are HGNC id(here [https://www.genenames.org/about/](https://www.genenames.org/about/) ) so I got the mapping of HGCN to ensembl from the biomart (kept it here since "getting the mappings from biomart comes up here and there")
 
