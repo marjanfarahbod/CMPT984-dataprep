@@ -11,7 +11,7 @@ The idea is that the students will build a model for epigenomic clustering simil
 
 First, raw track data belonging to GM12878 was retrieved from ENCODE ([https://www.encodeproject.org](https://www.encodeproject.org/)). The list of tracks and their accession number are as follows:
 
-[List of Assays](https://www.notion.so/34e77b18ea2d4c9bb01d8414fa86d90d)
+![List of Assays](https://github.com/marjanfarahbod/CMPT984-dataprep/blob/main/Screen%20Shot%202021-10-13%20at%204.27.39%20PM.png)
 
 Then, using Bedtools ([https://bedtools.readthedocs.io/en/latest/](https://bedtools.readthedocs.io/en/latest/)) a subset of the whole data (which contains roughlt 1/1000 of the whole genome), was selected according to ENCODE's pilot regions ([http://hgdownload.cse.ucsc.edu/goldenpath/hg19/encodeDCC/referenceSequences/encodePilotRegions.hg19.bed](http://hgdownload.cse.ucsc.edu/goldenpath/hg19/encodeDCC/referenceSequences/encodePilotRegions.hg19.bed)). 
 
