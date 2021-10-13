@@ -42,7 +42,7 @@ Filename: V38_exonplus02 (genomic coordinates with exonic regions, we don't need
 
 Other settings: 
 
-![Screen Shot 2021-10-11 at 4.50.18 PM.png](https://github.com/marjanfarahbod/CMPT984-dataprep/blob/main/Screen_Shot_2021-10-11_at_12.56.58_PM.png)
+![Screen Shot 2021-10-11 at 4.50.18 PM.png](https://github.com/marjanfarahbod/CMPT984-dataprep/blob/main/Screen_Shot_2021-10-11_at_4.50.18_PM.png)
 
 **File4: the mapping of the gene IDs (HGNC) to gene Ensembl IDs and transcript Ensembl IDs**
 
