@@ -90,3 +90,7 @@ from asinhCode.py  I get pr_expression_asinh.tsv.
 ### 5. Put together the final file
 
 from the finalTogether.py I get pr_exp_geneID_selected.csv
+
+### 6. The final modification
+
+we decided to remove the strand and transcript and only report expression at gene level. The input/output files have different columns, I missed some steps here, but the code would be the same, just selection of the columns for the output file are different. 
